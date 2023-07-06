@@ -26,4 +26,4 @@ The provided Kaggle dataset consists of daily records (CSV files) showcasing the
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+<img src="Architecture.jpeg">
